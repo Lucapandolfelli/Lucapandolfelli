@@ -6,6 +6,7 @@
 
 ## Education 🎓
 
--Desarrollo Web Fullstack en Coderhouse
--Tecnicatura Informática en Porgramación en UNQ
+- Desarrollo Web Fullstack en Coderhouse
+- Tecnicatura Informática en Porgramación en UNQ
+- Tecnicatura en Informática Profesional y Personal en ITMR
 
